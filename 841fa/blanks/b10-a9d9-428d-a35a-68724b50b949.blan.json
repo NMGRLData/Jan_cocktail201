@@ -1,15 +1,32 @@
 {
     "Ar36": {
-        "error": 0.00014073404943154878,
+        "error": 0.00011597854444385524,
         "error_type": "",
-        "fit": "previous",
+        "fit": "Weighted Mean_SEM",
         "references": [
             {
-                "exclude": false,
-                "record_id": "ba-03-J-05"
+                "exclude": "ok",
+                "record_id": "ba-03-J-05",
+                "uuid": "851b741a-9a7b-4b6c-9d96-66a4f4963a87"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "ba-03-J-06",
+                "uuid": "2278fb94-da9c-416a-8295-bc9e1e8dd0c7"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "ba-03-J-07",
+                "uuid": "a42a5dec-5daa-44ad-bbf5-d2b1044a35fd"
+            },
+            {
+                "exclude": "omit",
+                "record_id": "bc-03-J-706",
+                "uuid": "d212d158-bf4b-4386-b085-2b7b9bdb6ee6"
             }
         ],
-        "value": 0.002119194513667456
+        "reviewed": true,
+        "value": 0.0020310179987091505
     },
     "Ar37": {
         "error": 0.0015378866228675451,
@@ -99,16 +116,33 @@
         "value": 0.05289981884077261
     },
     "Ar40": {
-        "error": 0.009107967774743663,
+        "error": 0.004479630919793387,
         "error_type": "",
-        "fit": "previous",
+        "fit": "Weighted Mean_SEM",
         "references": [
             {
-                "exclude": false,
-                "record_id": "ba-03-J-05"
+                "exclude": "ok",
+                "record_id": "ba-03-J-05",
+                "uuid": "851b741a-9a7b-4b6c-9d96-66a4f4963a87"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "ba-03-J-06",
+                "uuid": "2278fb94-da9c-416a-8295-bc9e1e8dd0c7"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "ba-03-J-07",
+                "uuid": "a42a5dec-5daa-44ad-bbf5-d2b1044a35fd"
+            },
+            {
+                "exclude": "omit",
+                "record_id": "bc-03-J-706",
+                "uuid": "d212d158-bf4b-4386-b085-2b7b9bdb6ee6"
             }
         ],
-        "value": 0.18234683394624937
+        "reviewed": true,
+        "value": 0.16741327866690886
     },
     "Ar41": {
         "error": 0.03202357488345325,
