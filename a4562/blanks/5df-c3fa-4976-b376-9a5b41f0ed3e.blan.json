@@ -49,7 +49,7 @@
         "value": 0.0019058118922590417
     },
     "Ar37": {
-        "error": 0.0035691067908986394,
+        "error": 0.0023193269675839986,
         "error_type": "",
         "fit": "Weighted Mean_SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
         "references": [
@@ -95,7 +95,7 @@
             }
         ],
         "reviewed": true,
-        "value": 0.021365133622629026
+        "value": 0.021742171613278266
     },
     "Ar38": {
         "error": 0.0012561313768325098,
