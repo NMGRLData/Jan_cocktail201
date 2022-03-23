@@ -51,6 +51,11 @@
             },
             {
                 "exclude": "ok",
+                "record_id": "bu-FC-J-13368",
+                "uuid": "6013c3f1-8063-4b4b-95ae-2758a1fdc32e"
+            },
+            {
+                "exclude": "ok",
                 "record_id": "bu-FC-J-13369",
                 "uuid": "4833f0c4-cf89-413f-90ff-f8773c60f0ea"
             },
@@ -144,7 +149,7 @@
         "value": 0.002066158301939642
     },
     "Ar37": {
-        "error": 0.0012919072904378005,
+        "error": 0.0012766114669263639,
         "error_type": "",
         "fit": "Weighted Mean_SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
         "references": [
@@ -192,6 +197,11 @@
                 "exclude": "ok",
                 "record_id": "bu-FC-J-13367",
                 "uuid": "2b465224-b9bf-42f7-aae2-196df769a712"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "bu-FC-J-13368",
+                "uuid": "6013c3f1-8063-4b4b-95ae-2758a1fdc32e"
             },
             {
                 "exclude": "ok",
@@ -285,10 +295,10 @@
             }
         ],
         "reviewed": true,
-        "value": 0.019650178692849803
+        "value": 0.01957465115193291
     },
     "Ar38": {
-        "error": 0.0015212480442002177,
+        "error": 0.0015188605419407205,
         "error_type": "",
         "fit": "Weighted Mean_SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
         "references": [
@@ -336,6 +346,11 @@
                 "exclude": "ok",
                 "record_id": "bu-FC-J-13367",
                 "uuid": "2b465224-b9bf-42f7-aae2-196df769a712"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "bu-FC-J-13368",
+                "uuid": "6013c3f1-8063-4b4b-95ae-2758a1fdc32e"
             },
             {
                 "exclude": "ok",
@@ -429,10 +444,10 @@
             }
         ],
         "reviewed": true,
-        "value": 0.011318355712092562
+        "value": 0.010930831097887984
     },
     "Ar39": {
-        "error": 0.004237096733290897,
+        "error": 0.004167441649356107,
         "error_type": "",
         "fit": "Weighted Mean_SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
         "references": [
@@ -480,6 +495,11 @@
                 "exclude": "ok",
                 "record_id": "bu-FC-J-13367",
                 "uuid": "2b465224-b9bf-42f7-aae2-196df769a712"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "bu-FC-J-13368",
+                "uuid": "6013c3f1-8063-4b4b-95ae-2758a1fdc32e"
             },
             {
                 "exclude": "ok",
@@ -573,12 +593,12 @@
             }
         ],
         "reviewed": true,
-        "value": 0.02192064259363743
+        "value": 0.02183092996294061
     },
     "Ar40": {
-        "error": 0.04478185582538906,
+        "error": 0.023394500208528544,
         "error_type": "",
-        "fit": "Weighted Mean_SD",
+        "fit": "Weighted Mean_SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
         "references": [
             {
                 "exclude": "ok",
@@ -624,6 +644,11 @@
                 "exclude": "ok",
                 "record_id": "bu-FC-J-13367",
                 "uuid": "2b465224-b9bf-42f7-aae2-196df769a712"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "bu-FC-J-13368",
+                "uuid": "6013c3f1-8063-4b4b-95ae-2758a1fdc32e"
             },
             {
                 "exclude": "ok",
