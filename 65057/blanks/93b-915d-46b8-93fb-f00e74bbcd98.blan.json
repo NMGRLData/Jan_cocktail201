@@ -1,15 +1,32 @@
 {
     "Ar36": {
-        "error": 0.00023410237848816055,
+        "error": 0.0001267259272663112,
         "error_type": "",
-        "fit": "previous",
+        "fit": "Weighted Mean_SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
         "references": [
             {
-                "exclude": false,
-                "record_id": "bc-03-J-718"
+                "exclude": "ok",
+                "record_id": "bc-03-J-718",
+                "uuid": "40a43f5c-47ff-4634-915f-5df2fcf1b48e"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "bc-03-J-721",
+                "uuid": "c74d2ba8-6b40-4614-a26b-5ce9ef853a5d"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "bc-03-J-722",
+                "uuid": "2a2fd9ef-200b-41b4-86c6-c61dd0a495f1"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "bc-03-J-723",
+                "uuid": "c9cf8b75-e5a4-441e-ac05-54c8dcf1863a"
             }
         ],
-        "value": 0.001935451297417417
+        "reviewed": true,
+        "value": 0.0021611408164379266
     },
     "Ar37": {
         "error": 0.007379781655278166,
@@ -384,16 +401,33 @@
         "value": 0.026109139583875337
     },
     "Ar40": {
-        "error": 0.013702261956761138,
+        "error": 0.025572081693903594,
         "error_type": "",
-        "fit": "previous",
+        "fit": "Weighted Mean_SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
         "references": [
             {
-                "exclude": false,
-                "record_id": "bc-03-J-718"
+                "exclude": "ok",
+                "record_id": "bc-03-J-718",
+                "uuid": "40a43f5c-47ff-4634-915f-5df2fcf1b48e"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "bc-03-J-721",
+                "uuid": "c74d2ba8-6b40-4614-a26b-5ce9ef853a5d"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "bc-03-J-722",
+                "uuid": "2a2fd9ef-200b-41b4-86c6-c61dd0a495f1"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "bc-03-J-723",
+                "uuid": "c9cf8b75-e5a4-441e-ac05-54c8dcf1863a"
             }
         ],
-        "value": 0.24605783779826532
+        "reviewed": true,
+        "value": 0.21191472980144965
     },
     "Ar41": {
         "error": 0.04828791802662351,
